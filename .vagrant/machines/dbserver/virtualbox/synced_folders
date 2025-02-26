@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/Mariame/Desktop/2024/M2GL/SEMESTRE 1/DevOps/TPS/TP3/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Mariame/Desktop/2024/M2GL/SEMESTRE 1/DevOps/TPS/TP3","disabled":false,"__vagrantfile":true}}}
